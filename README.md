@@ -9,7 +9,7 @@ This repository is a pytorch implementation of [A Fast and Accurate Dependency P
 
 ### Setup
 
-```
+```bash
 git clone https://github.com/nitinprakash96/Neural-Dependency-Parser.git # Clone the repo
 
 conda env create --file env.yml # Setup the environment
